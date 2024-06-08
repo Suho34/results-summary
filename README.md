@@ -1,1 +1,1 @@
-well,it was challenge provided by fronend mentor
+well,it was challenge provided by frontend mentor
