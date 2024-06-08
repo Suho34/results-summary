@@ -1,0 +1,137 @@
+body{
+    display: flex;
+    align-items:center ;
+    justify-content:center;
+    flex-direction: ;
+background-color: aliceblue;
+margin: 30px;
+}
+
+
+
+
+
+
+.blue {
+background-color:hsl(234, 89%, 52%);
+color:  hsl(0, 20%, 96%);
+display: flex;
+justify-content:center;
+align-items: center;
+flex-direction: column;
+height: 450px;
+width: 400px;
+border-radius: 50px;
+}
+.circle {
+    height: 150px;
+    width: 150px;
+    background-color: hsl(224, 96%, 48%);
+    border-radius: 50%;
+    line-height: .2em; 
+display: flex;
+align-items:center ;
+justify-content:center;
+flex-direction: column;
+}
+
+.white {background-color: rgb(247, 246, 245);
+
+
+
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    height: 450px;
+    width: 350px;
+    border-radius: 50px;
+
+
+}
+span{
+font-size: 50px;
+font-weight: bold;
+font-family: sans-serif;
+}
+
+.sm{
+    font-size: 20px;
+    font-weight: bold;
+display: flex;
+align-content: flex-start;
+
+}
+.box1 {
+    
+height: 50px;
+width:250px ;
+background-color:rgb(246, 230, 230);
+display: flex;
+    justify-content:center;
+    align-items: center;
+    word-spacing: 5px;
+}
+.box2 {
+    height: 50px;
+    width:250px ;
+    background-color:rgb(243, 254, 224);
+    display: flex;
+        justify-content:center;
+        align-items: center;
+        word-spacing: 5px;
+    }
+.box3 {
+        height: 50px;
+        width:250px ;
+        background-color:#f6e6e6;
+        display: flex;
+            justify-content:center;
+            align-items: center;
+            word-spacing: 5px;
+        }   
+.box4 {
+            height: 50px;
+            width:250px ;
+            background-color:rgb(246, 230, 230);
+            display: flex;
+                justify-content:center;
+                align-items: center;
+                word-spacing: 5px;
+            } 
+.box5 {
+                height: 50px;
+                width:250px ;
+                background-color:rgb(18, 17, 17);
+                color: aliceblue;
+                display: flex;
+                    justify-content:center;
+                    align-items: center;
+                    word-spacing: 5px;
+                    border-radius: 25px;
+                }                
+            
+ img {
+         /* Apply margin to the right of the image */
+         margin-right: 45px;
+         
+            }         
+ h3{
+color: rgb(190, 190, 189);
+font-size: 16px;
+font-weight: bold;
+font-family: sans-serif;
+ }           
+.bio {
+    color: rgb(167, 167, 167);
+    font-size: 12px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.g {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
